@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466138786152",
+    "project_id": "masal-45b75",
+    "storage_bucket": "masal-45b75.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466138786152:android:e2e57dbb6f1118e5c44edd",
+        "android_client_info": {
+          "package_name": "com.huyarev.cinevia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ1I-qZy_pv17bJw4m504Ry6L3b1lDc8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
